@@ -20,3 +20,4 @@ function getCount(str) {
          }
   }
     return sum
+}
